@@ -1,4 +1,4 @@
-[# Compromising-windows-using-Metasploit
+# Compromising windows using Metasploit
 Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
@@ -129,4 +129,3 @@ keyscan_dump	Shows the keystrokes captured so far
 
 ## RESULT:
 The Metasploit framework for reconnaissance is  examined successfully
-](https://github.com/M-Nikhil20/Metasploit-for-reconnaissance)
